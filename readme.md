@@ -19,7 +19,17 @@ $ g++ -std=c++26 main.cpp ../../mock/*.cpp  -o ../out/program
 ### Biên dịch với thư viện đã cài đặt đầy đủ
 ```Bash  
 $ g++ -std=c++26 main.cpp ../../lib/*.cpp  -o ../out/program  
-``` 
+```
+
+### Biên dịch test
+```Bash
+
+```
+
+###
+```Bash
+$ .\tests
+```
 
 
 ## Hướng dẫn chạy  
